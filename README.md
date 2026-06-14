@@ -23,5 +23,3 @@ python sentiment_analyzer.py
 - Text Preprocessing (TF-IDF)
 - Train-Test Split
 - Model Evaluation (Accuracy, Precision, Recall)
-
-Built for Amazon ML Summer School 2026 portfolio.
