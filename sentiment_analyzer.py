@@ -1,6 +1,5 @@
 # ============================================================
 # MOVIE REVIEW SENTIMENT ANALYZER
-# Amazon ML Summer School Portfolio Project
 # Author: [Tushar Verma] | MNIT Jaipur
 # ============================================================
 
